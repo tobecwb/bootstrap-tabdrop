@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-tabdrop",
+  "version": "1.0.0",
+  "description": "Very usefull script when your tabs do not fit in a single row. This script takes the not fitting tabs and makes a new dropdown tab. In the dropdown there are all the tabs that do not fit.",
+  "main": "src/js/bootstrap-tabdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobecwb/bootstrap-tabdrop.git"
+  },
+  "author": "Nick White <nickswhite89@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobecwb/bootstrap-tabdrop/issues"
+  },
+  "homepage": "https://github.com/tobecwb/bootstrap-tabdrop",
+  "keywords": [
+    "bootstrap",
+    "tabdrop",
+    "bootstrap-tabs"
+  ]
+}
